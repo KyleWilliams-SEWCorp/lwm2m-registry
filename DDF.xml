@@ -6472,7 +6472,7 @@ The Object also allows steering the device towards a particular PLMN, or, to a p
     <Item>
 
         <ObjectID>10506</ObjectID>
-        <URN>urn:oma:lwm2m:oma:10506</URN>
+        <URN>urn:oma:lwm2m:x:10506</URN>
         <!-- Name of the object -->
         <Name>AI model</Name>
         <Description>This object can provision and configure Machine Intelligence (MI) capabilities. A new MI model is provisioned using an AI Model, Model URI,

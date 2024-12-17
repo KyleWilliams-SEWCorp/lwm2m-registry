@@ -37,7 +37,7 @@ http://www.openmobilealliance.org/ipr.html
         are chained together. Input and Output transform resources can be used to prepare data for input or to map output values, and also to transform  the data before reading or writing.
   </Description1>
         <ObjectID>10506</ObjectID>
-        <ObjectURN>urn:oma:lwm2m:ext:10506</ObjectURN>
+        <ObjectURN>urn:oma:lwm2m:x:10506</ObjectURN>
         <LWM2MVersion>1.0</LWM2MVersion>
         <ObjectVersion>1.0</ObjectVersion>
         <MultipleInstances>Multiple</MultipleInstances>
