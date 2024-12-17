@@ -31,7 +31,7 @@ http://www.openmobilealliance.org/ipr.html
 <LWM2M xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://openmobilealliance.org/tech/profiles/LWM2M.xsd">
     <Object ObjectType="MODefinition">
         <Name>AI model</Name>
-        <Description1> This object can provision and configure Machine Intelligence (MI) capabilities. A new MI model is provisioned using an AI Model, Model URI,
+        <Description1>This object can provision and configure Machine Intelligence (MI) capabilities. A new MI model is provisioned using an AI Model, Model URI,
         and/or Model Description resources. The Input and Input labels resources can be used to configure where the model reads the input data and the Output and 
         Output labels resource is used to configure where the model writes the output data. When the output of one model is used as input of another model, the models 
         are chained together. Input and Output transform resources can be used to prepare data for input or to map output values, and also to transform  the data before reading or writing.
